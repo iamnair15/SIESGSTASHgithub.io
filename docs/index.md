@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<title>WELCOME TO NAIR'S GROUP OF COMPANIES</title>
+</head>
+<body style="background-color:powderblue;">
 
-You can use the [editor on GitHub](https://github.com/iamnair15/SIESGSTASHgithub.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<h2><em><marquee direction="right">WELCOME   TO   SISEGST PORTAL </em></marquee></h2>
+<img src="https://siesgst.edu.in/home_banners/banner1.jpg" width="850" height="500" align="centre">
+<br>
+<br>
+<center>
+<p>
+<form>
+<strong>STUDENT ID  :  <input type="text">
+</p>
+<p>
+<strong>PASSWORD :  <input type="text">
+</p>
+SELECT YOUR DEPARTMENT
+<select>
+<option>click here: </option>
+<option>computer science </option>
+<option>electronics and computer science </option>
+<option>mechanical </option>
+</select>
+<p>
+<sup>FORGOT PASSWORD ?: <input type="checkbox"></sup>
+</p>
+<input type="submit">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iamnair15/SIESGSTASHgithub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
